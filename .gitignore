@@ -1,6 +1,11 @@
 # Python virtual env
 /venv
+
+# wav files
 ./data/*.wav
 *.h5
 /data/
 orcadata/
+
+# Jupyter Notebook
+.ipynb_checkpoints
