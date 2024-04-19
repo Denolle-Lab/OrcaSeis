@@ -1,3 +1,4 @@
 # Python virtual env
 /venv
 ./data/*.wav
+*.h5
