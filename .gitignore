@@ -1,5 +1,6 @@
 # Python virtual env
 /venv
 ./data/*.wav
-data/
+*.h5
+/data/
 orcadata/
