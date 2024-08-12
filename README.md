@@ -14,3 +14,12 @@ Project team:
 ## Data
 
 First, we will pull data from there a training data set: https://github.com/orcasound/orcadata/wiki/Orca-training-data
+
+## Order for running CNN
+1. data_cleaning.ipynb
+2. cnn_pytorch.ipynb (not built yet) / cnn.ipynb (has bugs)
+
+## Order for running SVM
+1. data_cleaning.ipynb
+2. creating_spectrograms.ipynb
+3. test_svc_classifier.ipynb (runs but doesn't produce proper results)
